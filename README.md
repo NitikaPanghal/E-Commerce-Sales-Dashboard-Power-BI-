@@ -5,3 +5,6 @@ Features
 ✔ Customer Insights: Identify top customers and purchasing behavior
 ✔ Product Performance: Analyze best-selling products and revenue distribution
 ✔ Interactive Visualizations: Dynamic charts & filters for deeper insights
+Tech Stack
+Power BI (Data Visualization)
+Power Query (Data Transformation)
